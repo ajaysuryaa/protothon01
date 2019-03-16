@@ -1,0 +1,5 @@
+sentence=input("enter the sentence")
+print("All upper case:",sentence.upper())
+print("All lower case:",sentence.lower())
+print("Title case:",sentence.title())
+print("Start case:",sentence.capitalize())
